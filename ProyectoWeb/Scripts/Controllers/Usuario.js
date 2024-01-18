@@ -242,7 +242,7 @@ function VerReferencia() {
         }
         $('#tbModal tbody').html("");
 
-        var table = $('#tbModal').DataTable({
+        var table = $('#tbModal').DataTable({ 
             "ajax": {
                 "url": urlorigen,
                 "type": "GET",
