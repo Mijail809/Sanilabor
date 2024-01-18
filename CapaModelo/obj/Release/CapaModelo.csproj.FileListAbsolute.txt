@@ -1,0 +1,6 @@
+C:\Dropbox\PROYECTOS\MediKare\Proyectos\2 - Absentismo\Codigo\Codigo Fuente\CapaModelo\bin\Release\CapaModelo.dll
+C:\Dropbox\PROYECTOS\MediKare\Proyectos\2 - Absentismo\Codigo\Codigo Fuente\CapaModelo\bin\Release\CapaModelo.pdb
+C:\Dropbox\PROYECTOS\MediKare\Proyectos\2 - Absentismo\Codigo\Codigo Fuente\CapaModelo\obj\Release\CapaModelo.csprojAssemblyReference.cache
+C:\Dropbox\PROYECTOS\MediKare\Proyectos\2 - Absentismo\Codigo\Codigo Fuente\CapaModelo\obj\Release\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Dropbox\PROYECTOS\MediKare\Proyectos\2 - Absentismo\Codigo\Codigo Fuente\CapaModelo\obj\Release\CapaModelo.dll
+C:\Dropbox\PROYECTOS\MediKare\Proyectos\2 - Absentismo\Codigo\Codigo Fuente\CapaModelo\obj\Release\CapaModelo.pdb
